@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: f4a5fa6d53eb41547933272b566ed2b0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 13
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Adventurer-59x59px_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 591
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9756fff2caafb82429f32ee325fa519c
+      internalID: -1223574295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer-59x59px_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 590
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e99fcaf3719994f889514714e42a0b
+      internalID: -1273323750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer-59x59px_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 590
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c558ac3364332479a4f26995bcd4d0
+      internalID: 817283325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer-59x59px_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 591
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0193221d6cbd534eb201672c5db69c7
+      internalID: -282563288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer-59x59px_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 590
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3bb989063d98847a5ba0497efd167b
+      internalID: 877021390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer-59x59px_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 590
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7154769a8e2de864bb4b5cb2651306c1
+      internalID: -1268901126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adventurer-59x59px_10
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 592
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a9214dc88cb7c448f6d86805eb22a7
+      internalID: 1098007309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Adventurer-59x59px_8: 877021390
+      Adventurer-59x59px_35: -1921285774
+      Adventurer-59x59px_15: -1306846692
+      Adventurer-59x59px_10: 1098007309
+      Adventurer-59x59px_1: -1102199864
+      Adventurer-59x59px_25: 269804575
+      Adventurer-59x59px_18: 1005967299
+      Adventurer-59x59px_38: -1242155953
+      Adventurer-59x59px_43: -41502128
+      Adventurer-59x59px_42: 1141415031
+      Adventurer-59x59px_22: -1247106336
+      Adventurer-59x59px_9: -1268901126
+      Adventurer-59x59px_23: 32862513
+      Adventurer-59x59px_6: 817283325
+      Adventurer-59x59px_40: 269064279
+      Adventurer-59x59px_5: -1273323750
+      Adventurer-59x59px_36: -21047382
+      Adventurer-59x59px_20: 71244106
+      Adventurer-59x59px_29: -1253788324
+      Adventurer-59x59px_7: -282563288
+      Adventurer-59x59px_3: -1936564327
+      Adventurer-59x59px_11: 681472672
+      Adventurer-59x59px_41: -1760430433
+      Adventurer-59x59px_12: -302812679
+      Adventurer-59x59px_27: -2143931164
+      Adventurer-59x59px_13: 1263648403
+      Adventurer-59x59px_30: 1308642322
+      Adventurer-59x59px_24: 626395507
+      Adventurer-59x59px_4: -1223574295
+      Adventurer-59x59px_17: -73354016
+      Adventurer-59x59px_21: 1016303161
+      Adventurer-59x59px_34: -276635257
+      Adventurer-59x59px_37: -461809086
+      Adventurer-59x59px_16: -1832236528
+      Adventurer-59x59px_45: -1265296359
+      Adventurer-59x59px_44: 1270220096
+      Adventurer-59x59px_19: 759334020
+      Adventurer-59x59px_46: -1483036
+      Adventurer-59x59px_33: 683521553
+      Adventurer-59x59px_28: -969686035
+      Adventurer-59x59px_26: 1844471637
+      Adventurer-59x59px_0: 553815348
+      Adventurer-59x59px_39: -256794137
+      Adventurer-59x59px_32: -1363551033
+      Adventurer-59x59px_2: 1340283840
+      Adventurer-59x59px_31: -1085533988
+      Adventurer-59x59px_14: -1761132351
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
